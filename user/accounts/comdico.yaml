@@ -1,0 +1,11 @@
+state: enabled
+email: dcomdico@outpatientsurgery.net
+fullname: 'David Comdico'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$vbhDu5mX3zr0G.NHHE21yu.D7f4l58RDCqALFq0VFuZLIhsljOWS.
